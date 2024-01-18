@@ -1,0 +1,22 @@
+#menu{
+    width: 100%;
+    height: 100VH;
+    background-image: url("https://preview.colorlib.com/theme/pulse/img/menu-bg.jpg.webp");
+    background-size: cover;
+    .menubox{
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        .menutop{
+            text-align: center;
+            i{
+                font-size: 40px
+            }
+        }
+        // .menubottom{
+            
+        // }
+    }
+}
